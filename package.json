@@ -1,0 +1,19 @@
+{
+  "name": "@darknessdizi/javascript_3_ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darknessdizi/JavaScript_3_ajs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darknessdizi/JavaScript_3_ajs/issues"
+  },
+  "homepage": "https://github.com/darknessdizi/JavaScript_3_ajs#readme",
+  "description": ""
+}
